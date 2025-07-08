@@ -15,13 +15,13 @@ Product struct holds product details like Id, Name, Brand, and Price.
 
 CRUD functions:
 
-AddProduct() – Adds a new product.
+ AddProduct() – Adds a new product.
 
-DeleteProduct() – Deletes a product using its ID.
+ DeleteProduct() – Deletes a product using its ID.
 
-UpdateProduct() – Updates an existing product's ID.
+ UpdateProduct() – Updates an existing product's ID.
 
-Cart() – Displays all current products in a user-friendly format.
+ Cart() – Displays all current products in a user-friendly format.
 
 main() – Demonstrates the workflow.
 
